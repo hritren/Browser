@@ -15,6 +15,7 @@ GO www.wikihow.com/Deal-With-Tons-of-Homework
 FORWARD
 GO www.susi.uni-sofia.bg
 PRINT
+EXIT
 */
 
 int main() {
